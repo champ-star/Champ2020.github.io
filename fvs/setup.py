@@ -43,8 +43,8 @@ class PyTest(TestCommand):
 setup(
     name='fvs',
     version=metadata['version'],
-    author='caibo',
-    author_email='caibo@senguo.cc',
+    author='champ',
+    author_email='13260609707@163.com',
     url='https://littlesky-01.coding.net/p/fvs/d/fvs/git',
     license='MIT',
     packages=find_packages(exclude=["test", "vevn"]),
